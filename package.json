@@ -1,7 +1,7 @@
 {
-  "name": "fs-app-template",
+  "name": "my-app-temp",
   "version": "2.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "this is my boilerplate",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
